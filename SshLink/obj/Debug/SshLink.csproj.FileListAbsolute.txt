@@ -1,0 +1,20 @@
+C:\Users\leigh\OneDrive\Desktop\Week 5\SshLink\SshLink\bin\Debug\SshLink.exe.config
+C:\Users\leigh\OneDrive\Desktop\Week 5\SshLink\SshLink\bin\Debug\SshLink.exe
+C:\Users\leigh\OneDrive\Desktop\Week 5\SshLink\SshLink\bin\Debug\SshLink.pdb
+C:\Users\leigh\OneDrive\Desktop\Week 5\SshLink\SshLink\obj\Debug\SshLink.csprojAssemblyReference.cache
+C:\Users\leigh\OneDrive\Desktop\Week 5\SshLink\SshLink\obj\Debug\SshLink.Form1.resources
+C:\Users\leigh\OneDrive\Desktop\Week 5\SshLink\SshLink\obj\Debug\SshLink.Properties.Resources.resources
+C:\Users\leigh\OneDrive\Desktop\Week 5\SshLink\SshLink\obj\Debug\SshLink.csproj.GenerateResource.cache
+C:\Users\leigh\OneDrive\Desktop\Week 5\SshLink\SshLink\obj\Debug\SshLink.csproj.CoreCompileInputs.cache
+C:\Users\leigh\OneDrive\Desktop\Week 5\SshLink\SshLink\obj\Debug\SshLink.exe
+C:\Users\leigh\OneDrive\Desktop\Week 5\SshLink\SshLink\obj\Debug\SshLink.pdb
+E:\Work\Programming\C#\SshLink\SshLink\bin\Debug\SshLink.exe.config
+E:\Work\Programming\C#\SshLink\SshLink\bin\Debug\SshLink.exe
+E:\Work\Programming\C#\SshLink\SshLink\bin\Debug\SshLink.pdb
+E:\Work\Programming\C#\SshLink\SshLink\obj\Debug\SshLink.csproj.AssemblyReference.cache
+E:\Work\Programming\C#\SshLink\SshLink\obj\Debug\SshLink.Form1.resources
+E:\Work\Programming\C#\SshLink\SshLink\obj\Debug\SshLink.Properties.Resources.resources
+E:\Work\Programming\C#\SshLink\SshLink\obj\Debug\SshLink.csproj.GenerateResource.cache
+E:\Work\Programming\C#\SshLink\SshLink\obj\Debug\SshLink.csproj.CoreCompileInputs.cache
+E:\Work\Programming\C#\SshLink\SshLink\obj\Debug\SshLink.exe
+E:\Work\Programming\C#\SshLink\SshLink\obj\Debug\SshLink.pdb
